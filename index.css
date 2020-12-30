@@ -55,5 +55,7 @@ footer {
 }
 
 @media screen only (min-width:660px) {
-
+  .flex-container {
+    rows: 2;
+  }
 }
