@@ -56,6 +56,6 @@ footer {
 
 @media screen only (min-width:660px) {
   .item {
-    height: 600px ;
+    height: 600px !important;
   }
 }
