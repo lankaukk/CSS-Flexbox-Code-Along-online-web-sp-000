@@ -5,7 +5,7 @@ body {
   font-size: 50px;
   font-family: fantasy;
   text-align: center;
-  
+
 }
 
 header {
@@ -40,7 +40,7 @@ footer {
 }
 
 .item {
-  height: 300px;
+  height: 320px;
   width: 100px;
   margin: 5px;
   background-color: #f3c5e0;
