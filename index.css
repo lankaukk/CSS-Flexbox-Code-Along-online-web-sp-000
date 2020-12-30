@@ -40,7 +40,7 @@ footer {
 }
 
 .item {
-  height: 320px;
+  height: 100%;
   width: 100px;
   margin: 5px;
   background-color: #f3c5e0;
