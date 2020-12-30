@@ -22,7 +22,7 @@ main {
   height: 100%;
   flex-flow: row wrap;
   justify-content: center;
-  align-items: center;1
+  align-items: center;
 }
 
 footer {
@@ -52,4 +52,8 @@ footer {
 .setWidth {
   flex-basis: 100px;
   flex-grow: 1;
+}
+
+@media screen only (min-width:660px) {
+
 }
